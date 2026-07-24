@@ -164,5 +164,3 @@ Estoy disponible para oportunidades junior, prácticas profesionales y proyectos
 ### Gracias por visitar mi perfil 🚀
 
 </div>
-
-Guárdalo en el repositorio público llamado exactamente **`oscarmmejia`** y confirma con **Commit changes**.

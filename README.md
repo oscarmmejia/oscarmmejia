@@ -55,6 +55,25 @@ Desarrollo aplicaciones web y proyectos académicos relacionados con
 
 ## 🚀 Proyectos destacados
 
+### 🌍 Richter’s Predictor: Predicción de daños por terremotos
+
+Proyecto académico de Machine Learning orientado a predecir el nivel de daño en edificios tras el terremoto de Gorkha de 2015 en Nepal, a partir de su ubicación y características de construcción.
+
+**Objetivo:** Superar la puntuación de **0.5815** del modelo de referencia basado en Random Forest.
+
+**Características principales:**
+
+* Análisis y preparación de datos con 38 variables.
+* Selección de características y creación de variables de vulnerabilidad estructural y localización.
+* Tratamiento del desbalance de clases y validación estratificada.
+* Comparación de modelos: Random Forest, LightGBM, CatBoost y XGBoost.
+* Optimización de hiperparámetros con Optuna o Hyperopt.
+* Combinación ponderada de predicciones para mejorar el resultado final.
+
+**Tecnologías:** `Python` · `Scikit-learn` · `Random Forest` · `LightGBM` · `CatBoost` · `XGBoost` · `Optuna` · `Machine Learning`
+
+---
+
 ### 🐔 Clasificación de imágenes con redes neuronales CNN
 
 Proyecto académico de Deep Learning orientado a la clasificación de imágenes mediante una red neuronal convolucional.
@@ -68,7 +87,7 @@ Proyecto académico de Deep Learning orientado a la clasificación de imágenes 
 
 **Tecnologías:** `Python` · `TensorFlow` · `Keras` · `CNN` · `Deep Learning`
 
-> Repositorio en preparación.
+> Hosting: Google Colab
 
 ---
 
@@ -121,8 +140,8 @@ Proyecto colaborativo de desarrollo web realizado a partir de un diseño en Figm
 
 * Desarrollo backend.
 * Integración de bases de datos.
-* Creación y consumo de APIs REST.
-* REACT
+* Creación y consumo de APIs.
+* FastAPI
 * Despliegue de aplicaciones web
 
 ---
